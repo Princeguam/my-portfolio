@@ -1,0 +1,8 @@
+#ignore the virtual environment
+venv/
+
+#ignore the idea folder
+.idea/
+
+#ignore the .env file
+.env
